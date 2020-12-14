@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Classes Metodos e Atributos Estaticos POO\Calculadora de Moeda\bin\Debug\netcoreapp3.1\Calculadora de Moeda.exe
+C:\Users\caisb\OneDrive\Desktop\Classes Metodos e Atributos Estaticos POO\Calculadora de Moeda\bin\Debug\netcoreapp3.1\Calculadora de Moeda.deps.json
+C:\Users\caisb\OneDrive\Desktop\Classes Metodos e Atributos Estaticos POO\Calculadora de Moeda\bin\Debug\netcoreapp3.1\Calculadora de Moeda.runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Classes Metodos e Atributos Estaticos POO\Calculadora de Moeda\bin\Debug\netcoreapp3.1\Calculadora de Moeda.runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Classes Metodos e Atributos Estaticos POO\Calculadora de Moeda\bin\Debug\netcoreapp3.1\Calculadora de Moeda.dll
+C:\Users\caisb\OneDrive\Desktop\Classes Metodos e Atributos Estaticos POO\Calculadora de Moeda\bin\Debug\netcoreapp3.1\Calculadora de Moeda.pdb
+C:\Users\caisb\OneDrive\Desktop\Classes Metodos e Atributos Estaticos POO\Calculadora de Moeda\obj\Debug\netcoreapp3.1\Calculadora de Moeda.csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Classes Metodos e Atributos Estaticos POO\Calculadora de Moeda\obj\Debug\netcoreapp3.1\Calculadora de Moeda.AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Classes Metodos e Atributos Estaticos POO\Calculadora de Moeda\obj\Debug\netcoreapp3.1\Calculadora de Moeda.AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Classes Metodos e Atributos Estaticos POO\Calculadora de Moeda\obj\Debug\netcoreapp3.1\Calculadora de Moeda.csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Classes Metodos e Atributos Estaticos POO\Calculadora de Moeda\obj\Debug\netcoreapp3.1\Calculadora de Moeda.dll
+C:\Users\caisb\OneDrive\Desktop\Classes Metodos e Atributos Estaticos POO\Calculadora de Moeda\obj\Debug\netcoreapp3.1\Calculadora de Moeda.pdb
+C:\Users\caisb\OneDrive\Desktop\Classes Metodos e Atributos Estaticos POO\Calculadora de Moeda\obj\Debug\netcoreapp3.1\Calculadora de Moeda.genruntimeconfig.cache
